@@ -10,7 +10,7 @@
 
 <p align="center">&nbsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/java.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring.png" alt="spring" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
