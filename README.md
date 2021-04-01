@@ -18,10 +18,9 @@
 </p>
 
 <p align="center">&nbsp;
+<a href="https://helm.sh/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/helm.svg" alt="helm" width="100" height="80"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/vagrant.svg" alt="vagrant" width="100" height="80"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/ansible.png" alt="ansible" width="100" height="80"/> </a>
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-fabric.png" alt="hyperledger-fabric" width="100" height="80"/> </a>
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-explorer.png" alt="explorer" width="100" height="80"/> </a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kafka.svg" alt="kafka" width="100" height="80"/> </a> 
 <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/rabbitmq.svg" alt="rabbitMQ" width="100" height="80"/> </a>
 </p>
@@ -33,6 +32,11 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/mongodb.svg" alt="mongodb" width="100" height="80"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/postgresql-plain.svg" alt="postgresql" width="100" height="80"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/mysql.svg" alt="mysql" width="100" height="80"/> </a>
+</p>
+
+<p align="center">&nbsp;
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-fabric.png" alt="hyperledger-fabric" width="100" height="80"/> </a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-explorer.png" alt="explorer" width="100" height="80"/> </a>
 </p>
 
 <p align="center">&nbsp;
