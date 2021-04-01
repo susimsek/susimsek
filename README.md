@@ -10,15 +10,16 @@
 
 <p align="center">&nbsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/java.svg" alt="java" width="100" height="80"/> </a>
+<a href="https://maven.apache.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/maven.png" alt="maven" width="100" height="80"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring.svg" alt="spring" width="100" height="80"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="100" height="80"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/docker.svg" alt="docker" width="100" height="80"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kubernetes.svg" alt="kubernetes" width="100" height="80"/> </a>
-<a href="https://golang.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/golang.svg" alt="golang" width="100" height="80"/> </a>
 </p>
 
 <p align="center">&nbsp;
 <a href="https://helm.sh/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/helm.svg" alt="helm" width="100" height="80"/> </a>
+<a href="https://golang.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/golang.svg" alt="golang" width="100" height="80"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/vagrant.svg" alt="vagrant" width="100" height="80"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/ansible.png" alt="ansible" width="100" height="80"/> </a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kafka.svg" alt="kafka" width="100" height="80"/> </a> 
