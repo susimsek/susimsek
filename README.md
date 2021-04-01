@@ -12,13 +12,13 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/java.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/docker.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/vagrant.svg" alt="vagrant" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kafka.svg" alt="kafka" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+<a href="https://www.elastic.co" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kibana.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> </a> 
