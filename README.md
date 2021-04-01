@@ -14,6 +14,16 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="80" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/docker.svg" alt="docker" width="80" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kubernetes.svg" alt="kubernetes" width="80" height="40"/> </a>
+</p>
+
+<p align="center">&nbsp;
+<a href="https://www.vagrantup.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/vagrant.svg" alt="vagrant" width="80" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/ansible.png" alt="ansible" width="80" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/java.svg" alt="java" width="80" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring.svg" alt="spring" width="80" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="80" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/docker.svg" alt="docker" width="80" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kubernetes.svg" alt="kubernetes" width="80" height="40"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/vagrant.svg" alt="vagrant" width="80" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/ansible.png" alt="ansible" width="80" height="40"/> </a>
 </p>
