@@ -19,11 +19,10 @@
 <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 <a href="https://www.elastic.co" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kibana.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/redis.svg" alt="redis" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 <p align="center">&nbsp;
