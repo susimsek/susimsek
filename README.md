@@ -29,7 +29,7 @@
 <p align="center">&nbsp;
 <a href="https://www.elastic.co" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/elasticsearch.svg" alt="elasticsearch" width="100" height="80"/> </a> 
 <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kibana.svg" alt="kibana" width="100" height="80"/> </a>
-<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/fluentd.svg" alt="kibana" width="100" height="80"/> </a>
+<a href="https://www.fluentd.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/fluentd.png" alt="fluentd" width="100" height="80"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/mongodb.svg" alt="mongodb" width="100" height="80"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/postgresql-plain.svg" alt="postgresql" width="100" height="80"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/mysql.svg" alt="mysql" width="100" height="80"/> </a>
