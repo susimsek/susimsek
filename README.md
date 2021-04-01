@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=susimsek&show_icons=true&locale=en" alt="nrktsll" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=susimsek&show_icons=true&locale=en&layout=compact" alt="nrktsll" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=susimsek&show_icons=true&locale=en" alt="susimsek" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=susimsek&show_icons=true&locale=en&layout=compact" alt="susimsek" height="150"/>
 </p>
