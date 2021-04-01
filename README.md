@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Şuayb Şimşek </h1>
 
-- 🎓 I’m graduated from of **Computer Engineer** at **TOBB University of Economics and Technology**
+- 🎓 I’m graduated from **Computer Engineer** at **TOBB University of Economics and Technology**
 
 - 🌱 I’m currently working on **Spring Boot,Spring Cloud,Gorm,Gin,Docker,Kubernetes,Vagrant,Ansible,Hyperledger Fabric **
 
