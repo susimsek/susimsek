@@ -36,8 +36,9 @@
 </p>
 
 <p align="center">&nbsp;
+<a href="https://debezium.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/debezium.png" alt="debezium" width="100" height="80"/> </a>
 <a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-fabric.png" alt="hyperledger-fabric" width="100" height="80"/> </a>
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-explorer.png" alt="explorer" width="100" height="80"/> </a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-explorer.png" alt="hyperledger-explorer" width="100" height="80"/> </a>
 </p>
 
 <p align="center">&nbsp;
