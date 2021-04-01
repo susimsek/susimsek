@@ -20,6 +20,7 @@
 <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/vagrant.svg" alt="vagrant" width="80" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/ansible.png" alt="ansible" width="80" height="40"/> </a>
 <a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-fabric.png" alt="/hyperledger-fabric" width="80" height="40"/> </a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/hyperledger-fabric.png" alt="/explorer" width="80" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kafka.svg" alt="kafka" width="80" height="40"/> </a> 
 <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/rabbitmq.svg" alt="rabbitMQ" width="80" height="40"/> </a>
 </p>
