@@ -13,7 +13,7 @@
 <a href="https://twitter.com/suaybsimsek58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="suaybsimsek58" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/şuayb-şimşek-29b077178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="şuayb-şimşek-29b077178" height="30" width="40" /></a>
 <a href="https://instagram.com/suayb.simsek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suayb.simsek" height="30" width="40" /></a>
-<a href="https://susimsek.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://susimsek.github.io/" height="30" width="40" /></a>
+<a href="https://susimsek.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="feed.xml" height="30" width="40" /></a>
 </p>
 
 
