@@ -2,7 +2,7 @@
 
 - 🎓 I’m graduated from **Computer Engineer** at **TOBB University of Economics and Technology**
 
-- 🌱 I’m currently working on **Spring Boot,Spring Cloud,Gorm,Gin,Docker,Kubernetes,Vagrant,Ansible,Hyperledger Fabric **
+- 🌱 I’m currently working on **Spring Boot,Spring Cloud,Gorm,Gin,Echo,Docker,Kubernetes,Vagrant,Ansible,Hyperledger Fabric **
 
 - 📫 How to reach me:  &nbsp;<a href="https://www.linkedin.com/in/şuayb-şimşek-29b077178/" target="blank"><img align="center" alt="susimsek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
@@ -26,6 +26,15 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="100" height="80"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/docker.svg" alt="docker" width="100" height="80"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kubernetes.svg" alt="kubernetes" width="100" height="80"/> </a>
+</p>
+
+<p align="center">&nbsp;
+<a href="https://echo.labstack.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/echo.png" alt="echo" width="100" height="80"/> </a>
+<a href="https://gin-gonic.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/gin.png" alt="gin" width="100" height="80"/> </a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/graphql.png" alt="graphql" width="100" height="80"/> </a>
+<a href="https://github.com/graphql/graphql-playground" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/playground.jpeg" alt="playground" width="100" height="80"/> </a>
+<a href="https://swagger.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/swagger.png" alt="swagger" width="100" height="80"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/jenkins.png" alt="jenkins" width="100" height="80"/> </a>
 </p>
 
 <p align="center">&nbsp;
