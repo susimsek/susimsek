@@ -29,6 +29,15 @@
 </p>
 
 <p align="center">&nbsp;
+<a href="https://metallb.universe.tf/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/metallb.png" alt="metallb" width="100" height="80"/> </a>
+<a href="https://istio.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/istio.jpeg" alt="istio" width="100" height="80"/> </a>
+<a href="https://kiali.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kiali.png" alt="kiali" width="100" height="80"/> </a>
+<a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/jaeger.png" alt="jaeger" width="100" height="80"/> </a>
+<a href="https://grafana.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/grafana.png" alt="grafana" width="100" height="80"/> </a>
+<a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/prometheus.svg" alt="prometheus" width="100" height="80"/> </a>
+</p>
+
+<p align="center">&nbsp;
 <a href="https://echo.labstack.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/echo.png" alt="echo" width="100" height="80"/> </a>
 <a href="https://gin-gonic.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/gin.png" alt="gin" width="100" height="80"/> </a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/graphql.png" alt="graphql" width="100" height="80"/> </a>
