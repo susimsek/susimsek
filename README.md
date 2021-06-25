@@ -44,6 +44,7 @@
 <a href="https://github.com/graphql/graphql-playground" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/playground.jpeg" alt="playground" width="100" height="80"/> </a>
 <a href="https://swagger.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/swagger.png" alt="swagger" width="100" height="80"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/jenkins.png" alt="jenkins" width="100" height="80"/> </a>
+<a href="https://www.sonarqube.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/sonarqube.png" alt="sonarqube" width="100" height="80"/> </a>
 </p>
 
 <p align="center">&nbsp;
