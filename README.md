@@ -6,8 +6,6 @@
 
 - 📫 How to reach me:  &nbsp;<a href="https://www.linkedin.com/in/şuayb-şimşek-29b077178/" target="blank"><img align="center" alt="susimsek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
-- 📄 Know about my experiences [https://linkedin.com/in/şuayb-şimşek-29b077178](My Linkledin Account)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/suaybsimsek58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="suaybsimsek58" height="30" width="40" /></a>
