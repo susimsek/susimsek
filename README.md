@@ -2,7 +2,7 @@
 
 - 🎓 I’m graduated from **Computer Engineer** at **TOBB University of Economics and Technology**
 
-- 🌱 I’m currently working on **Spring Boot(Java/Kotlin),Spring Cloud,Gorm,Gin,Echo,Docker,Kubernetes,React,Hyperledger Fabric **
+- 🌱 Experienced in software development such as Jhipster,Java-Kotlin(Spring Boot,Spring Cloud, Spring Web Flux),Golang(Gin,Echo), cloud(Aws,Digitalocean), TDD Approach, Blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Devops technologies such as,Docker, Kubernetes, Helm, Istio, Rancher, Jenkins, Sonarqube, Ansible,Kiali,Jaeger,Vagrant, Other technologies such as Postgresql,Mysql,Mongodb,H2, Redis,Hazelcast,Elasticsearch,Kibana,Kafka,Rabbitmq,Debezium,Graphql.
 
 - 📫 How to reach me:  &nbsp;<a href="https://www.linkedin.com/in/şuayb-şimşek-29b077178/" target="blank"><img align="center" alt="susimsek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
