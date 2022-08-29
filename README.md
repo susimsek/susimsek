@@ -19,8 +19,8 @@
 
 <p align="center">&nbsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/java.svg" alt="java" width="100" height="80"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kotlin.png" alt="kotlin" width="100" height="80"/> </a>
 <a href="https://golang.org/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/golang.svg" alt="golang" width="100" height="80"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring.svg" alt="spring" width="100" height="80"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/spring-boot.png" alt="java" width="100" height="80"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/docker.svg" alt="docker" width="100" height="80"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/susimsek/susimsek/blob/main/images/kubernetes.svg" alt="kubernetes" width="100" height="80"/> </a>
