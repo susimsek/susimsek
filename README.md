@@ -5,7 +5,7 @@
 
 - 🌱 I have 5 years of experience backend technologies such as Java-Kotlin(Spring Boot,Spring Cloud, Spring Web Flux) Jhipster, Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js, IPFS, The Graph and devops technologies such as AWS, Docker, Kubernetes, Helm, Istio, Rancher, Jenkins, Sonarqube, Ansible,Kiali,Jaeger,Vagrant.
 
-- 📫 How to reach me:  &nbsp;<a href="https://www.linkedin.com/in/şuayb-şimşek-29b077178/" target="blank"><img align="center" alt="susimsek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+- 📫 How to reach me:  How to reach me **suaybsimsek58@gmail.com**
 
 - 📝 I regularly write articles on [https://medium.com/@suaybsimsek58](https://medium.com/@suaybsimsek58)
 
