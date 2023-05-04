@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@suaybsimsek58](https://medium.com/@suaybsimsek58)
 
+- 📄 Know about my experiences [https://linkedin.com/in/şuayb-şimşek-29b077178](https://linkedin.com/in/şuayb-şimşek-29b077178)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
