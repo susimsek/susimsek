@@ -10,7 +10,7 @@
 - 💻 I specialize in **Java**, **Kotlin**, **Golang**, **Spring Boot**, **React**, **Kubernetes**, **NestJS**, and **TypeScript**.
 - 📝 Writing articles on:
     - [Medium](https://medium.com/@suaybsimsek58)
-    - [Personal Blog](https://susimsek.github.io/blog)
+    - [Personal Blog](https://suaybsimsek.com)
 - 📫 Reach me at **suaybsimsek58@gmail.com**
 - 🌐 Check out my [LinkedIn Profile](https://linkedin.com/in/şuayb-şimşek-29b077178)
 
